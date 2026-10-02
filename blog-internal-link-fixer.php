@@ -3,7 +3,7 @@
  * Plugin Name: Blog Internal Link Fixer
  * Description: Safely finds and selectively fixes incorrect internal blog links, including WPBakery post content.
  * Version: 1.1.0
- * Author: OpenAI
+ * Author: AbdulRehman Khokhar
  * License: GPL-2.0-or-later
  */
 if (!defined('ABSPATH')) exit;
